@@ -1133,5 +1133,11 @@
 			);
 			Name = "(am) Space Elevator";
 		};
+		"burn.jpg" = {
+			Equivalents = (
+				"[burn]",
+			);
+			Name = "(am) Burn!";
+		};
 	};
 }
