@@ -1,0 +1,47 @@
+{
+	AdiumSetVersion = "1.3";
+	Emoticons = {
+		"derp-girl.gif" = {
+			Equivalents = (
+				"[derp]",
+			);
+			Name = Derp;
+		};
+		"dwight.gif" = {
+			Equivalents = (
+				"[arg]",
+			);
+			Name = Arggggh;
+		};
+		"trophy.png" = {
+			Equivalents = (
+				"[trophy]",
+			);
+			Name = Trophy;
+		};
+		"fu2.png" = {
+			Equivalents = (
+				"[2fu]",
+			);
+			Name = "Fuck it.";
+		};
+		"slow_clap.gif" = {
+			Equivalents = (
+				"[clap]",
+			);
+			Name = "Slow Clap";
+		};
+		"beauty.gif" = {
+			Equivalents = (
+				"[beautiful]",
+			);
+			Name = Beautiful;
+		};
+		"cock_star.png" = {
+			Equivalents = (
+				"[star]",
+			);
+			Name = Star;
+		};
+	};
+}
