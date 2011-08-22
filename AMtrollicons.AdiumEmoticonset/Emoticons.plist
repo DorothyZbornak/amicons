@@ -1109,5 +1109,29 @@
 			);
 			Name = "(am) Star";
 		};
+		"mike.png" = {
+			Equivalents = (
+				"[hunigan]",
+			);
+			Name = "(am) Hunigan!";
+		};
+		"canyonero.png" = {
+			Equivalents = (
+				"[canyon]",
+			);
+			Name = "(am) Geoff";
+		};
+		"qa1.gif" = {
+			Equivalents = (
+				"[qa1]",
+			);
+			Name = "(am) QA1";
+		};
+		"spaceElevator.jpg" = {
+			Equivalents = (
+				"[elevator]",
+			);
+			Name = "(am) Space Elevator";
+		};
 	};
 }

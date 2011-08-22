@@ -43,5 +43,29 @@
 			);
 			Name = Star;
 		};
+		"mike.png" = {
+			Equivalents = (
+				"[hunigan]",
+			);
+			Name = "Hunigan!!!";
+		};
+		"canyonero.png" = {
+			Equivalents = (
+				"[canyon]",
+			);
+			Name = Geoff;
+		};
+		"qa1.gif" = {
+			Equivalents = (
+				"[qa1]",
+			);
+			Name = QA1;
+		};
+		"spaceElevator.jpg" = {
+			Equivalents = (
+				"[elevator]",
+			);
+			Name = "Space Elevator";
+		};
 	};
 }
