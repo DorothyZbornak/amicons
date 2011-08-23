@@ -4,3 +4,11 @@ Place these files in:
 Then go to your Adium preferences and find your new sets in the Emoticons drop down in the Appearance pane.
 
 You will have to restart Adium to see them.
+
+If you prefer to have git manage this for you and not have to download zips.
+
+1. go to the above folder and move any of your personal emoticon packs that are NOT amicons to another folder 
+2. delete the Emoticons folder
+3. using the github application, clone the repo as "Emoticons" instead of amicons this will make the base of the repo the Emoticons folder. 
+4. move your other emoticon packs back into place. They are being ignored using the previously committed .gitingnore file!
+
