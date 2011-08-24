@@ -7,6 +7,12 @@
 				"[palm]",
 			);
 		};
+		"sports.gif" = {
+			Name = sports;
+			Equivalents = (
+				"[sports]",
+			);
+		};
 		"derp-girl.gif" = {
 			Equivalents = (
 				"[derp]",
