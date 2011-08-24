@@ -7,6 +7,12 @@
 				"[palm]",
 			);
 		};
+		"facepalm2.gif" = {
+			Name = "Double Palm";
+			Equivalents = (
+				"[palm2]",
+			);
+		};
 		"oldman.png" = {
 			Name = "Old Man";
 			Equivalents = (
@@ -90,6 +96,12 @@
 				"[burn]",
 			);
 			Name = "Burn!";
+		};
+		"burn2.gif" = {
+			Equivalents = (
+				"[burn2]",
+			);
+			Name = "Burn! (Animated)";
 		};
 	};
 }
