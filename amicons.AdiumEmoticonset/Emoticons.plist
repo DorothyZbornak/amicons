@@ -7,6 +7,12 @@
 				"[palm]",
 			);
 		};
+		"oldman.png" = {
+			Name = "Old Man";
+			Equivalents = (
+				"[oldman]",
+			);
+		};
 		"sports.gif" = {
 			Name = sports;
 			Equivalents = (
