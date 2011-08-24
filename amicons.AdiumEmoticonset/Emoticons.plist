@@ -103,5 +103,11 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"segway.gif" = {
+			Equivalents = (
+				"[segway]",
+			);
+			Name = "Segway Crash";
+		};		
 	};
 }
