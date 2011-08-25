@@ -103,6 +103,12 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"nerd.jpg" = {
+			Equivalents = (
+				"[nerd]",
+			);
+			Name = "Nerd Alert!";
+		};
 		"aaron.jpg" = {
 			Equivalents = (
 				"[aaron]",
