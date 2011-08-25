@@ -103,5 +103,42 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"aaron.jpg" = {
+			Equivalents = (
+				"[aaron]",
+			);
+			Name = "Aaron (Avatar)";
+		};
+		"nick.jpg" = {
+			Equivalents = (
+				"[nick]",
+			);
+			Name = "Nick (Avatar)";
+		};
+		"drew.jpg" = {
+			Equivalents = (
+				"[drew]",
+			);
+			Name = "Drew (Avatar)";
+		};
+		"scott.jpg" = {
+			Equivalents = (
+				"[scott]",
+			);
+			Name = "Scott (Avatar)";
+		};
+		"tim.jpg" = {
+			Equivalents = (
+				"[tim]",
+			);
+			Name = "Tim (Avatar)";
+		};
+		"jameson.jpg" = {
+			Equivalents = (
+				"[jameson]",
+			);
+			Name = "Jameson (Avatar)";
+		};
+
 	};
 }
