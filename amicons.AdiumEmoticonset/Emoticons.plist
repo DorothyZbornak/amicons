@@ -121,7 +121,7 @@
 			);
 			Name = "Aaron (Avatar)";
 		};
-		"nick.jpg" = {
+		"nick.png" = {
 			Equivalents = (
 				"[nick]",
 			);
@@ -136,6 +136,7 @@
 		"scott.jpg" = {
 			Equivalents = (
 				"[scott]",
+				"[scott.pilgrim]",
 			);
 			Name = "Scott (Avatar)";
 		};
