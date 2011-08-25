@@ -13,6 +13,36 @@
 				"[palm2]",
 			);
 		};
+		"double-facepalm.gif" = {
+			Name = "Facepalm (animated)";
+			Equivalents = (
+				"[facepalm]",
+			);
+		};	
+		"number-one.jpg" = {
+			Name = "Picard Finger";
+			Equivalents = (
+				"[number1]",
+			);
+		};
+		"picard-durr.jpg" = {
+			Name = "Uh, durr.";
+			Equivalents = (
+				"[durr]",
+			);
+		};
+		"yesss.png" = {
+			Name = "Yesss! (Picard)";
+			Equivalents = (
+				"[yesss]",
+			);
+		};
+		"epic-no.gif" = {
+			Name = "No! Nooo! (Picard)";
+			Equivalents = (
+				"[nooo]",
+			);
+		};		
 		"oldman.png" = {
 			Name = "Old Man";
 			Equivalents = (
