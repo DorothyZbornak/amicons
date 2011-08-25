@@ -103,6 +103,12 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"segway.gif" = {
+			Equivalents = (
+				"[segway]",
+			);
+			Name = "Segway Crash";
+		};
 		"nerd.jpg" = {
 			Equivalents = (
 				"[nerd]",
@@ -145,6 +151,5 @@
 			);
 			Name = "Jameson (Avatar)";
 		};
-
 	};
 }
