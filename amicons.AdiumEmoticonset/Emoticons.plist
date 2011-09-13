@@ -18,7 +18,7 @@
 			Equivalents = (
 				"[facepalm]",
 			);
-		};	
+		};
 		"number-one.jpg" = {
 			Name = "Picard Finger";
 			Equivalents = (
@@ -42,7 +42,7 @@
 			Equivalents = (
 				"[nooo]",
 			);
-		};		
+		};
 		"oldman.png" = {
 			Name = "Old Man";
 			Equivalents = (
@@ -97,6 +97,12 @@
 			);
 			Name = Star;
 		};
+		"tickspoon.png" = {
+			Equivalents = (
+				"[spoon]",
+			);
+			Name = "SPOOOON!";
+		};
 		"mike.png" = {
 			Equivalents = (
 				"[hunigan]",
@@ -126,6 +132,12 @@
 				"[burn]",
 			);
 			Name = "Burn!";
+		};
+		"failburn.png" = {
+			Equivalents = (
+				"[burn1]",
+			);
+			Name = "Failed Burn";
 		};
 		"burn2.gif" = {
 			Equivalents = (
