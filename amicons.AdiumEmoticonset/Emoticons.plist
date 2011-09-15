@@ -7,6 +7,12 @@
 				"[palm]",
 			);
 		};
+		"staredad.gif" = {
+			Name = "Stare Dad";
+			Equivalents = (
+				"[staredad]",
+			);
+		};
 		"facepalm2.gif" = {
 			Name = "Double Palm";
 			Equivalents = (
