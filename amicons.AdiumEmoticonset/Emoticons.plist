@@ -13,6 +13,12 @@
 				"[staredad]",
 			);
 		};
+		"chucktesta.png" = {
+			Name = "Chuck Testa";
+			Equivalents = (
+				"[chucktesta]",
+			);
+		};
 		"facepalm2.gif" = {
 			Name = "Double Palm";
 			Equivalents = (
