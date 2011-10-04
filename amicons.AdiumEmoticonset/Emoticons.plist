@@ -25,6 +25,13 @@
 				"[palm2]",
 			);
 		};
+		"palm3.jpg" = {
+			Name = "Emergency Medical Facepalm";
+			Equivalents = (
+				"[palm3]",
+				"[emh]",
+			);
+		};
 		"double-facepalm.gif" = {
 			Name = "Facepalm (animated)";
 			Equivalents = (
@@ -65,6 +72,12 @@
 			Name = sports;
 			Equivalents = (
 				"[sports]",
+			);
+		};
+		"magic.gif" = {
+			Name = Magic;
+			Equivalents = (
+				"[magic]",
 			);
 		};
 		"derp-girl.gif" = {
@@ -156,6 +169,13 @@
 				"[burn2]",
 			);
 			Name = "Burn! (Animated)";
+		};	
+		"okaythen.gif" = {
+			Equivalents = (
+				"[okaythen]",
+				"[okthen]",
+			);
+			Name = "Burn! (Animated)";
 		};
 		"segway.gif" = {
 			Equivalents = (
@@ -187,7 +207,7 @@
 			);
 			Name = "Drew (Avatar)";
 		};
-		"scott.jpg" = {
+		"scott.gif" = {
 			Equivalents = (
 				"[scott]",
 				"[scott.pilgrim]",
