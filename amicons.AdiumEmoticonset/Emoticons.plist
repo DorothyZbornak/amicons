@@ -177,6 +177,13 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"red.jpg" = {
+			Equivalents = (
+				"[red]",
+				"[dumbass]",
+			);
+			Name = "Burn! (Animated)";
+		};
 		"segway.gif" = {
 			Equivalents = (
 				"[segway]",
