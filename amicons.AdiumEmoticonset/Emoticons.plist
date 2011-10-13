@@ -7,6 +7,12 @@
 				"[palm]",
 			);
 		};
+		"applejuice.gif" = {
+			Name = Palm;
+			Equivalents = (
+				"[applejuice]",
+			);
+		};
 		"staredad.gif" = {
 			Name = "Stare Dad";
 			Equivalents = (
@@ -169,7 +175,7 @@
 				"[burn2]",
 			);
 			Name = "Burn! (Animated)";
-		};	
+		};
 		"okaythen.gif" = {
 			Equivalents = (
 				"[okaythen]",
@@ -196,7 +202,7 @@
 			);
 			Name = "Nerd Alert!";
 		};
-		"aaron.jpg" = {
+		"aaron.gif" = {
 			Equivalents = (
 				"[aaron]",
 			);
@@ -214,7 +220,7 @@
 			);
 			Name = "Drew (Avatar)";
 		};
-		"scott.gif" = {
+		"scott.jpg" = {
 			Equivalents = (
 				"[scott]",
 				"[scott.pilgrim]",
