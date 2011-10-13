@@ -7,7 +7,7 @@
 				"[palm]",
 			);
 		};
-		"applejuice.gif" = {
+		"applejuice.png" = {
 			Name = Palm;
 			Equivalents = (
 				"[applejuice]",
