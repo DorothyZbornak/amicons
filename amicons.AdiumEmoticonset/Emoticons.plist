@@ -1,6 +1,12 @@
 {
 	AdiumSetVersion = "1.3";
 	Emoticons = {
+		"trollcain.gif" = {
+			Name = "Troll (Cain)";
+			Equivalents = (
+				"[trollcain]",
+			);
+		};
 		"facepalm.jpeg" = {
 			Name = Palm;
 			Equivalents = (
