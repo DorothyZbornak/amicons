@@ -56,6 +56,13 @@
 				"[facepalm]",
 			);
 		};
+		"gaypicard.jpg" = {
+			Name = "Gay Picard";
+			Equivalents = (
+				"[gaypicard]",
+				"[jeffrey]",
+			);
+		};
 		"number-one.jpg" = {
 			Name = "Picard Finger";
 			Equivalents = (
@@ -226,7 +233,7 @@
 			);
 			Name = "Nick (Avatar)";
 		};
-		"drew.jpg" = {
+		"berkman.jpg" = {
 			Equivalents = (
 				"[drew]",
 			);
