@@ -258,5 +258,11 @@
 			);
 			Name = "Jameson (Avatar)";
 		};
+		"killme.png" = {
+			Equivalents = (
+				"[killme]",
+			);
+			Name = "Kill Me";
+		};
 	};
 }
