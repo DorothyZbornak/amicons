@@ -1,6 +1,12 @@
 {
 	AdiumSetVersion = "1.3";
 	Emoticons = {
+		"lance.gif" = {
+			Name = Douche;
+			Equivalents = (
+				"[douche]",
+			);
+		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
