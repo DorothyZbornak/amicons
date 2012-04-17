@@ -8,11 +8,11 @@
 			);
 		};
 		"fuckit.gif" = {
-			Name = Fuck It;
+			Name = FuckIt;
 			Equivalents = (
-				"[fuckit]"
+				"[fuckit]",
 			);
-		};
+		};		
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
