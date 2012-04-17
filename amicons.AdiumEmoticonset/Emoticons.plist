@@ -7,6 +7,12 @@
 				"[douche]",
 			);
 		};
+		"fuckit.gif" = {
+			Name = Fuck It;
+			Equivalents = (
+				"[fuckit]"
+			);
+		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
