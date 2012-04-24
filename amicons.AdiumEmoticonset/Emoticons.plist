@@ -276,5 +276,17 @@
 			);
 			Name = "Kill Me";
 		};
+		"thumbs_up.gif" = {
+			Equivalents = (
+				"[y]",
+			);
+			Name = "Thumbs Up";
+		};
+		"thumbs_down.gif" = {
+			Equivalents = (
+				"[n]",
+			);
+			Name = "Thumbs Down";
+		};
 	};
 }
