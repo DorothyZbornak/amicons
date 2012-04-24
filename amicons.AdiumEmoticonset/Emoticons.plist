@@ -276,13 +276,13 @@
 			);
 			Name = "Kill Me";
 		};
-		"thumbs_up.gif" = {
+		"thumbs_up.png" = {
 			Equivalents = (
 				"[y]",
 			);
 			Name = "Thumbs Up";
 		};
-		"thumbs_down.gif" = {
+		"thumbs_down.png" = {
 			Equivalents = (
 				"[n]",
 			);
