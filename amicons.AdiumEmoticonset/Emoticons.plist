@@ -1,18 +1,55 @@
 {
 	AdiumSetVersion = "1.3";
 	Emoticons = {
-		"lance.gif" = {
-			Name = Douche;
+		"aaron.jpg" = {
 			Equivalents = (
-				"[douche]",
+				"[aaron]",
 			);
+			Name = "[avatar] Aaron";
+		};
+		"berkman.jpg" = {
+			Equivalents = (
+				"[drew]",
+			);
+			Name = "[avatar] Drew";
+		};
+		"jake.png" = {
+			Equivalents = (
+				"[jake]",
+			);
+			Name = "[avatar] Jake";
+		};
+		"jameson.png" = {
+			Equivalents = (
+				"[jameson]",
+			);
+			Name = "[avatar] Jameson";
+		};
+		"nick.png" = {
+			Equivalents = (
+				"[nick]",
+			);
+			Name = "[avatar] Nick";
+		};
+		"scott.jpg" = {
+			Equivalents = (
+				"[scott]",
+				"[scott.pilgrim]",
+			);
+			Name = "[avatar] Scott";
+		};
+		"tim.jpg" = {
+			Equivalents = (
+				"[tim]",
+			);
+			Name = "[avatar] Tim";
 		};
 		"fuckit.gif" = {
 			Name = FuckIt;
 			Equivalents = (
 				"[fuckit]",
 			);
-		};		
+		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
@@ -26,13 +63,13 @@
 			);
 		};
 		"facepalm.jpeg" = {
-			Name = Palm;
+			Name = "Picard - Palm";
 			Equivalents = (
 				"[palm]",
 			);
 		};
 		"applejuice.png" = {
-			Name = Palm;
+			Name = "Apple Juice";
 			Equivalents = (
 				"[applejuice]",
 			);
@@ -50,7 +87,7 @@
 			);
 		};
 		"facepalm2.gif" = {
-			Name = "Double Palm";
+			Name = "Picard - Double Palm";
 			Equivalents = (
 				"[palm2]",
 			);
@@ -63,38 +100,38 @@
 			);
 		};
 		"double-facepalm.gif" = {
-			Name = "Facepalm (animated)";
+			Name = "Picard - Double Facepalm";
 			Equivalents = (
 				"[facepalm]",
 			);
 		};
 		"gaypicard.jpg" = {
-			Name = "Gay Picard";
+			Name = "Picard - Gay";
 			Equivalents = (
 				"[gaypicard]",
 				"[jeffrey]",
 			);
 		};
 		"number-one.jpg" = {
-			Name = "Picard Finger";
+			Name = "Picard - Finger";
 			Equivalents = (
 				"[number1]",
 			);
 		};
 		"picard-durr.jpg" = {
-			Name = "Uh, durr.";
+			Name = "Picard - Uh, durr.";
 			Equivalents = (
 				"[durr]",
 			);
 		};
 		"yesss.png" = {
-			Name = "Yesss! (Picard)";
+			Name = "Picard - Yesss!";
 			Equivalents = (
 				"[yesss]",
 			);
 		};
 		"epic-no.gif" = {
-			Name = "No! Nooo! (Picard)";
+			Name = "Picard - No! Nooo!";
 			Equivalents = (
 				"[nooo]",
 			);
@@ -233,48 +270,17 @@
 			);
 			Name = "Nerd Alert!";
 		};
-		"aaron.jpg" = {
-			Equivalents = (
-				"[aaron]",
-			);
-			Name = "Aaron (Avatar)";
-		};
-		"nick.png" = {
-			Equivalents = (
-				"[nick]",
-			);
-			Name = "Nick (Avatar)";
-		};
-		"berkman.jpg" = {
-			Equivalents = (
-				"[drew]",
-			);
-			Name = "Drew (Avatar)";
-		};
-		"scott.jpg" = {
-			Equivalents = (
-				"[scott]",
-				"[scott.pilgrim]",
-			);
-			Name = "Scott (Avatar)";
-		};
-		"tim.jpg" = {
-			Equivalents = (
-				"[tim]",
-			);
-			Name = "Tim (Avatar)";
-		};
-		"jameson.png" = {
-			Equivalents = (
-				"[jameson]",
-			);
-			Name = "Jameson (Avatar)";
-		};
 		"killme.png" = {
 			Equivalents = (
 				"[killme]",
 			);
 			Name = "Kill Me";
+		};
+		"lance.gif" = {
+			Name = Douche;
+			Equivalents = (
+				"[douche]",
+			);
 		};
 		"thumbs-up.png" = {
 			Equivalents = (
@@ -287,6 +293,24 @@
 				"[n]",
 			);
 			Name = "Thumbs Down";
+		};
+		"lunch.gif" = {
+			Equivalents = (
+				"[lunch]",
+			);
+			Name = "Lunch?";
+		};
+		"attn.png" = {
+			Equivalents = (
+				"[!]",
+			);
+			Name = "Attention !";
+		};
+		"question.png" = {
+			Equivalents = (
+				"[?]",
+			);
+			Name = "Attention ?";
 		};
 	};
 }
