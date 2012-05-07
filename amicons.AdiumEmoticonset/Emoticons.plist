@@ -190,6 +190,12 @@
 			);
 			Name = Beautiful;
 		};
+		"whatyoudidthere.png" = {
+			Equivalents = (
+				"[seewhatyoudidthere]",
+			);
+			Name = "I see what you did there";
+		};
 		"cock_star.png" = {
 			Equivalents = (
 				"[star]",
