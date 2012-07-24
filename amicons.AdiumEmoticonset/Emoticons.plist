@@ -1,12 +1,6 @@
 {
 	AdiumSetVersion = "1.3";
 	Emoticons = {
-		"aaron.jpg" = {
-			Equivalents = (
-				"[aaron]",
-			);
-			Name = "[avatar] Aaron";
-		};
 		"berkman.jpg" = {
 			Equivalents = (
 				"[drew]",
@@ -317,6 +311,12 @@
 				"[?]",
 			);
 			Name = "Attention ?";
+		};
+		"whatsYaPhoneNumba.gif" = {
+			Equivalents = (
+				"[#]",
+			);
+			Name = "Phone Call";
 		};
 	};
 }
