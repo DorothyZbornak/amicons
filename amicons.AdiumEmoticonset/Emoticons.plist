@@ -318,5 +318,11 @@
 			);
 			Name = "Phone Call";
 		};
+		"stare.gif" = {
+			Equivalents = (
+				"[stare]",
+			);
+			Name = Staredown;
+		};
 	};
 }
