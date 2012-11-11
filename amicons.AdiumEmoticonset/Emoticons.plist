@@ -324,5 +324,23 @@
 			);
 			Name = Staredown;
 		};
+		"blanka.gif" = {
+			Equivalents = (
+				"[rage]",
+			);
+			Name = "RAGE!";
+		};
+		"haggar.gif" = {
+			Equivalents = (
+				"[suplex]",
+			);
+			Name = Suplex;
+		};
+		"proto1.gif" = {
+			Equivalents = (
+				"[blaster]",
+			);
+			Name = Blaster;
+		};
 	};
 }
