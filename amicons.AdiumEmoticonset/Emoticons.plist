@@ -93,6 +93,24 @@
 				"[emh]",
 			);
 		};
+		"palm4.gif" = {
+			Name = "Boromir Facepalm";
+			Equivalents = (
+				"[palm4]",
+			);
+		};
+		"palm5.gif" = {
+			Name = "Aaragorn Facepalm";
+			Equivalents = (
+				"[palm5]",
+			);
+		};
+		"palm6.gif" = {
+			Name = "Elrond Facepalm";
+			Equivalents = (
+				"[palm6]",
+			);
+		};
 		"double-facepalm.gif" = {
 			Name = "Picard - Double Facepalm";
 			Equivalents = (
@@ -128,6 +146,18 @@
 			Name = "Picard - No! Nooo!";
 			Equivalents = (
 				"[nooo]",
+			);
+		};
+		"nooo2.gif" = {
+			Name = "Luke Nooo!";
+			Equivalents = (
+				"[nooo2]",
+			);
+		};
+		"nooo4.gif" = {
+			Name = "Wyatt Nooo!";
+			Equivalents = (
+				"[nooo3]",
 			);
 		};
 		"oldman.png" = {
@@ -169,6 +199,12 @@
 		"fu2.png" = {
 			Equivalents = (
 				"[2fu]",
+			);
+			Name = "Fuck it.";
+		};
+		"fu3.gif" = {
+			Equivalents = (
+				"[fu]",
 			);
 			Name = "Fuck it.";
 		};
@@ -341,6 +377,48 @@
 				"[blaster]",
 			);
 			Name = Blaster;
+		};
+		"slap.gif" = {
+			Equivalents = (
+				"[slap]",
+			);
+			Name = Slap;
+		};
+		"snap.gif" = {
+			Equivalents = (
+				"[snap]",
+			);
+			Name = "Oh snap";
+		};
+		"simon.gif" = {
+			Equivalents = (
+				"[simon]",
+			);
+			Name = "Disgusted Simon";
+		};
+		"ohshit.gif" = {
+			Equivalents = (
+				"[ohshit]",
+			);
+			Name = "Oh Shit Squirrel";
+		};
+		"duncan.gif" = {
+			Equivalents = (
+				"[duncan]",
+			);
+			Name = "DUNCAN!";
+		};
+		"50.gif" = {
+			Equivalents = (
+				"[50]",
+			);
+			Name = "Fifty Cent";
+		};
+		"zebra.gif" = {
+			Equivalents = (
+				"[zebra]",
+			);
+			Name = "Disco Zebra";
 		};
 	};
 }
