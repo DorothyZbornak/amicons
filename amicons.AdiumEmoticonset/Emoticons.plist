@@ -1,7 +1,7 @@
 {
 	AdiumSetVersion = "1.3";
 	Emoticons = {
-		"berkman.jpg" = {
+		"newdrew.png" = {
 			Equivalents = (
 				"[drew]",
 			);
@@ -37,6 +37,12 @@
 				"[tim]",
 			);
 			Name = "[avatar] Tim";
+		};
+		"carlton.gif" = {
+			Name = Awesome;
+			Equivalents = (
+				"[awesome]",
+			);
 		};
 		"fuckit.gif" = {
 			Name = FuckIt;
