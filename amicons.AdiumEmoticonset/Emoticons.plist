@@ -50,6 +50,37 @@
 				"[fuckit]",
 			);
 		};
+		"blowyourmind.gif" = {
+			Name = "Mind Explosion";
+			Equivalents = (
+				"[blowyourmind]",
+				"[mindexplosion]",
+			);
+		};
+		"dontunderstand.gif" = {
+			Name = "Don't Understand the Reference";
+			Equivalents = (
+				"[dontunderstand]",
+			);
+		};
+		"epic.gif" = {
+			Name = Epic;
+			Equivalents = (
+				"[epic]",
+			);
+		};
+		"gonnabgood.gif" = {
+			Name = "Gonna Be Good";
+			Equivalents = (
+				"[gonnabegood]",
+			);
+		};
+		"want.jpg" = {
+			Name = "Do Want";
+			Equivalents = (
+				"[dowant]",
+			);
+		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
@@ -176,6 +207,12 @@
 			Name = sports;
 			Equivalents = (
 				"[sports]",
+			);
+		};
+		"youdontsay.jpg" = {
+			Name = "You Don't Say";
+			Equivalents = (
+				"[youdontsay]",
 			);
 		};
 		"magic.gif" = {
