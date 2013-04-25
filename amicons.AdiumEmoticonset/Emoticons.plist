@@ -38,6 +38,13 @@
 			);
 			Name = "[avatar] Tim";
 		};
+		"tom.png" = {
+			Equivalents = (
+				"[tom]",
+				"[tomabrem]",
+			);
+			Name = "[avatar] Tom";
+		};
 		"carlton.gif" = {
 			Name = Awesome;
 			Equivalents = (
