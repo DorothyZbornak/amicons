@@ -13,6 +13,12 @@
 			);
 			Name = "[avatar] Jake";
 		};
+		"shrug.gif" = {
+			Equivalents = (
+				"[shrug]",
+			);
+			Name = shrug;
+		};
 		"jameson.png" = {
 			Equivalents = (
 				"[jameson]",
