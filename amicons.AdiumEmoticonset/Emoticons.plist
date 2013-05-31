@@ -307,12 +307,6 @@
 			);
 			Name = "Fuck it.";
 		};
-		"slow_clap.gif" = {
-			Equivalents = (
-				"[clap]",
-			);
-			Name = "Slow Clap";
-		};
 		"beauty.gif" = {
 			Equivalents = (
 				"[beautiful]",
