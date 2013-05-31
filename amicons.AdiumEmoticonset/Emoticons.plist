@@ -60,8 +60,14 @@
 		"clap.gif" = {
 			Name = Clap;
 			Equivalents = (
-				"[clap]",
+				"[clap2]",
 			);
+		};
+		"slow_clap.gif" = {
+			Equivalents = (
+				"[clap1]",
+			);
+			Name = "Slow Clap";
 		};
 		"popcorn.gif" = {
 			Name = Popcorn;
