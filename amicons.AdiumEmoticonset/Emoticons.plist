@@ -63,6 +63,12 @@
 				"[fuckit]",
 			);
 		};
+		"watson.gif" = {
+			Name = Watson;
+			Equivalents = (
+				"[watson]",
+			);
+		};
 		"blowyourmind.gif" = {
 			Name = "Mind Explosion";
 			Equivalents = (
