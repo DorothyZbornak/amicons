@@ -58,6 +58,12 @@
 			);
 		};
 		"clap1.gif" = {
+			Name = "Clap";
+			Equivalents = (
+				"[clap]",
+			);
+		};
+		"clap_fail.gif" = {
 			Name = "Clap 1";
 			Equivalents = (
 				"[clap1]",
@@ -91,6 +97,12 @@
 			Name = This2;
 			Equivalents = (
 				"[this2]",
+			);
+		};
+		"this3.gif" = {
+			Name = This3;
+			Equivalents = (
+				"[this3]",
 			);
 		};
 		"fuckit.gif" = {
