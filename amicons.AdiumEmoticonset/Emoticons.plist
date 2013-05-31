@@ -58,19 +58,19 @@
 			);
 		};
 		"clap1.gif" = {
-			Name = "Slow Clap";
+			Name = "Clap 1";
 			Equivalents = (
 				"[clap1]",
 			);
 		};
 		"clap2.gif" = {
-			Name = Clap;
+			Name = "Clap 2";
 			Equivalents = (
 				"[clap2]",
 			);
 		};
 		"clap3.gif" = {
-			Name = Clap3;
+			Name = "Clap 3";
 			Equivalents = (
 				"[clap3]",
 			);
