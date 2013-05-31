@@ -57,6 +57,30 @@
 				"[awesome]",
 			);
 		};
+		"clap.gif" = {
+			Name = Clap;
+			Equivalents = (
+				"[clap]",
+			);
+		};
+		"popcorn.gif" = {
+			Name = Popcorn;
+			Equivalents = (
+				"[popcorn]",
+			);
+		};
+		"this1.gif" = {
+			Name = This1;
+			Equivalents = (
+				"[this1]",
+			);
+		};
+		"this2.gif" = {
+			Name = This2;
+			Equivalents = (
+				"[this2]",
+			);
+		};
 		"fuckit.gif" = {
 			Name = FuckIt;
 			Equivalents = (
