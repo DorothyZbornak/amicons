@@ -51,6 +51,12 @@
 			);
 			Name = "[avatar] Tom";
 		};
+		"anyong.gif" = {
+			Equivalents = (
+				"[anyong]",
+				"[bye]",
+			);
+		};
 		"carlton.gif" = {
 			Name = Awesome;
 			Equivalents = (
@@ -88,6 +94,12 @@
 			);
 		};
 		"this1.gif" = {
+			Name = This;
+			Equivalents = (
+				"[this]",
+			);
+		};
+		"this.jpg" = {
 			Name = This1;
 			Equivalents = (
 				"[this1]",
