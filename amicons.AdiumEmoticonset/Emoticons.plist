@@ -63,6 +63,12 @@
 				"[awesome]",
 			);
 		};
+		"chicken.gif" = {
+			Name = Chicken;
+			Equivalents = (
+				"[chicken]",
+			);
+		};
 		"clap1.gif" = {
 			Name = "Clap";
 			Equivalents = (
@@ -85,6 +91,36 @@
 			Name = "Clap 3";
 			Equivalents = (
 				"[clap3]",
+			);
+		};
+		"magic.gif" = {
+			Name = Magic;
+			Equivalents = (
+				"[magic]",
+			);
+		};
+		"magic1.gif" = {
+			Name = Magic1;
+			Equivalents = (
+				"[magic1]",
+			);
+		};
+		"magic2.gif" = {
+			Name = Magic2;
+			Equivalents = (
+				"[magic2]",
+			);
+		};
+		"magic3.gif" = {
+			Name = Magic3;
+			Equivalents = (
+				"[magic3]",
+			);
+		};
+		"magic4.gif" = {
+			Name = Magic4;
+			Equivalents = (
+				"[magic4]",
 			);
 		};
 		"popcorn.gif" = {
@@ -115,6 +151,18 @@
 			Name = This3;
 			Equivalents = (
 				"[this3]",
+			);
+		};
+		"zebra.gif" = {
+			Name = "Disco Zebra";
+			Equivalents = (
+				"[zebra]",
+			);
+		};
+		"zebra1.gif" = {
+			Name = "Zebra Fail";
+			Equivalents = (
+				"[zebra1]",
 			);
 		};
 		"fuckit.gif" = {
@@ -293,12 +341,6 @@
 			Name = "You Don't Say";
 			Equivalents = (
 				"[youdontsay]",
-			);
-		};
-		"magic.gif" = {
-			Name = Magic;
-			Equivalents = (
-				"[magic]",
 			);
 		};
 		"derp-girl.gif" = {
@@ -530,12 +572,6 @@
 				"[50]",
 			);
 			Name = "Fifty Cent";
-		};
-		"zebra.gif" = {
-			Equivalents = (
-				"[zebra]",
-			);
-			Name = "Disco Zebra";
 		};
 	};
 }
