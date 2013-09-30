@@ -44,7 +44,7 @@
 			);
 			Name = "[avatar] Scott";
 		};
-		"tim.jpg" = {
+		"tim.png" = {
 			Equivalents = (
 				"[tim]",
 			);
@@ -192,30 +192,6 @@
 				"[mindblown]",
 			);
 		};
-		"dontunderstand.gif" = {
-			Name = "Don't Understand the Reference";
-			Equivalents = (
-				"[dontunderstand]",
-			);
-		};
-		"epic.gif" = {
-			Name = Epic;
-			Equivalents = (
-				"[epic]",
-			);
-		};
-		"gonnabgood.gif" = {
-			Name = "Gonna Be Good";
-			Equivalents = (
-				"[gonnabegood]",
-			);
-		};
-		"want.jpg" = {
-			Name = "Do Want";
-			Equivalents = (
-				"[dowant]",
-			);
-		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
@@ -344,12 +320,6 @@
 				"[sports]",
 			);
 		};
-		"youdontsay.jpg" = {
-			Name = "You Don't Say";
-			Equivalents = (
-				"[youdontsay]",
-			);
-		};
 		"derp-girl.gif" = {
 			Equivalents = (
 				"[derp]",
@@ -385,12 +355,6 @@
 				"[beautiful]",
 			);
 			Name = Beautiful;
-		};
-		"whatyoudidthere.png" = {
-			Equivalents = (
-				"[seewhatyoudidthere]",
-			);
-			Name = "I see what you did there";
 		};
 		"cock_star.png" = {
 			Equivalents = (
