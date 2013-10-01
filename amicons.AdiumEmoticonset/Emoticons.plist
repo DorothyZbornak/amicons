@@ -57,6 +57,13 @@
 			);
 			Name = "[avatar] Tom";
 		};
+		"patrick.png" = {
+			Equivalents = (
+				"[patrick]",
+				"[patrickhawley]",
+			);
+			Name = "[avatar] Patrick";
+		};
 		"anyong.gif" = {
 			Equivalents = (
 				"[anyong]",
