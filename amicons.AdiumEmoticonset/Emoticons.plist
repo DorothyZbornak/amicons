@@ -4,6 +4,7 @@
 		"brandi.jpg" = {
 			Equivalents = (
 				"[brandilee220]",
+				"[brandi]",
 			);
 			Name = "[avatar] Brandi";
 		};
@@ -18,12 +19,6 @@
 				"[jake]",
 			);
 			Name = "[avatar] Jake";
-		};
-		"shrug.gif" = {
-			Equivalents = (
-				"[shrug]",
-			);
-			Name = shrug;
 		};
 		"jameson.png" = {
 			Equivalents = (
@@ -63,6 +58,12 @@
 				"[patrickhawley]",
 			);
 			Name = "[avatar] Patrick";
+		};
+		"shrug.gif" = {
+			Equivalents = (
+				"[shrug]",
+			);
+			Name = shrug;
 		};
 		"anyong.gif" = {
 			Equivalents = (
@@ -407,6 +408,7 @@
 		"mike.png" = {
 			Equivalents = (
 				"[hunigan]",
+				"hunigan"
 			);
 			Name = "Hunigan!!!";
 		};
