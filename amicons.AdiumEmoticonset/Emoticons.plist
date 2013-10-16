@@ -107,6 +107,28 @@
 				"[clap3]",
 			);
 		};
+		"crane.png"={
+			Name = "It Took a Crane";
+			Equivalents = (
+				"[crane]",
+				"[ittookacrane]",
+				"[seewhatyoudidthere]",
+				"[ittookacranetoseewhatyoudidthere]",
+			);
+		};
+		"crane1.gif"={
+			Name = "It Took a Crane";
+			Equivalents = (
+				"[crane1]",
+				"[ittookacrane1]",
+			);
+		};
+		"jutincae.gif" = {
+			Name = "Jut In Cae";
+			Equivalents = (
+				"[jutincae]",
+			);
+		};
 		"magic.gif" = {
 			Name = Magic;
 			Equivalents = (
@@ -264,6 +286,13 @@
 			Name = "Elrond Facepalm";
 			Equivalents = (
 				"[palm6]",
+			);
+		};
+		"palm7.gif" = {
+			Name = "Simon Cowell Facepalm";
+			Equivalents = (
+				"[palm7]",
+				"[simonpalm]",
 			);
 		};
 		"double-facepalm.gif" = {
