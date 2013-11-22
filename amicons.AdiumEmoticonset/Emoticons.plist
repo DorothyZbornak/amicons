@@ -579,5 +579,41 @@
 			);
 			Name = "Fifty Cent";
 		};
+		"gofuckyourself.gif" = {
+			Equivalents = (
+				"[gfy]",
+			);
+			Name = "Go Fuck Yourself";
+		};
+		"coolstorybro.gif" = {
+			Equivalents = (
+				"[coolstory]",
+			);
+			Name = "Cool Story Bro";
+		};
+		"shutup.gif" = {
+			Equivalents = (
+				"[shutup]",
+			);
+			Name = "Shut up!!";
+		};
+		"whatthefuck.gif" = {
+			Equivalents = (
+				"[wtf2]",
+			);
+			Name = "What the fuck?";
+		};
+		"bye2.gif" = {
+			Equivalents = (
+				"[bye2]",
+			);
+			Name = "Bye bitch";
+		};
+		"fuckthis.gif" = {
+			Equivalents = (
+				"[fuckthis]",
+			);
+			Name = "Fuck this, fuck that";
+		};
 	};
 }
