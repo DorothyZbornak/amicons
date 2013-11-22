@@ -4,6 +4,7 @@
 		"brandi.jpg" = {
 			Equivalents = (
 				"[brandilee220]",
+				"[brandi]",
 			);
 			Name = "[avatar] Brandi";
 		};
@@ -18,12 +19,6 @@
 				"[jake]",
 			);
 			Name = "[avatar] Jake";
-		};
-		"shrug.gif" = {
-			Equivalents = (
-				"[shrug]",
-			);
-			Name = shrug;
 		};
 		"jameson.png" = {
 			Equivalents = (
@@ -44,7 +39,7 @@
 			);
 			Name = "[avatar] Scott";
 		};
-		"tim.jpg" = {
+		"tim.png" = {
 			Equivalents = (
 				"[tim]",
 			);
@@ -57,11 +52,25 @@
 			);
 			Name = "[avatar] Tom";
 		};
+		"patrick.png" = {
+			Equivalents = (
+				"[patrick]",
+				"[patrickhawley]",
+			);
+			Name = "[avatar] Patrick";
+		};
+		"shrug.gif" = {
+			Equivalents = (
+				"[shrug]",
+			);
+			Name = shrug;
+		};
 		"anyong.gif" = {
 			Equivalents = (
 				"[anyong]",
 				"[bye]",
 			);
+			Name = "Anyong!";
 		};
 		"carlton.gif" = {
 			Name = Awesome;
@@ -97,6 +106,28 @@
 			Name = "Clap 3";
 			Equivalents = (
 				"[clap3]",
+			);
+		};
+		"crane.png"={
+			Name = "It Took a Crane";
+			Equivalents = (
+				"[crane]",
+				"[ittookacrane]",
+				"[seewhatyoudidthere]",
+				"[ittookacranetoseewhatyoudidthere]",
+			);
+		};
+		"crane1.gif"={
+			Name = "It Took a Crane";
+			Equivalents = (
+				"[crane1]",
+				"[ittookacrane1]",
+			);
+		};
+		"jutincae.gif" = {
+			Name = "Jut In Cae";
+			Equivalents = (
+				"[jutincae]",
 			);
 		};
 		"magic.gif" = {
@@ -191,30 +222,6 @@
 				"[mindblown]",
 			);
 		};
-		"dontunderstand.gif" = {
-			Name = "Don't Understand the Reference";
-			Equivalents = (
-				"[dontunderstand]",
-			);
-		};
-		"epic.gif" = {
-			Name = Epic;
-			Equivalents = (
-				"[epic]",
-			);
-		};
-		"gonnabgood.gif" = {
-			Name = "Gonna Be Good";
-			Equivalents = (
-				"[gonnabegood]",
-			);
-		};
-		"want.jpg" = {
-			Name = "Do Want";
-			Equivalents = (
-				"[dowant]",
-			);
-		};
 		"block.jpg" = {
 			Name = "Mark Block";
 			Equivalents = (
@@ -282,6 +289,13 @@
 				"[palm6]",
 			);
 		};
+		"palm7.gif" = {
+			Name = "Simon Cowell Facepalm";
+			Equivalents = (
+				"[palm7]",
+				"[simonpalm]",
+			);
+		};
 		"double-facepalm.gif" = {
 			Name = "Picard - Double Facepalm";
 			Equivalents = (
@@ -343,12 +357,6 @@
 				"[sports]",
 			);
 		};
-		"youdontsay.jpg" = {
-			Name = "You Don't Say";
-			Equivalents = (
-				"[youdontsay]",
-			);
-		};
 		"derp-girl.gif" = {
 			Equivalents = (
 				"[derp]",
@@ -385,12 +393,6 @@
 			);
 			Name = Beautiful;
 		};
-		"whatyoudidthere.png" = {
-			Equivalents = (
-				"[seewhatyoudidthere]",
-			);
-			Name = "I see what you did there";
-		};
 		"cock_star.png" = {
 			Equivalents = (
 				"[star]",
@@ -406,6 +408,7 @@
 		"mike.png" = {
 			Equivalents = (
 				"[hunigan]",
+				"hunigan"
 			);
 			Name = "Hunigan!!!";
 		};
