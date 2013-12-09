@@ -26,11 +26,33 @@
 			);
 			Name = "[avatar] Jameson";
 		};
+		"bandana.gif" = {
+			Equivalents = (
+				"[kevin]",
+				"[kevinbanas]",
+			);
+			Name = "[avatar] Kevin";
+		};
 		"nick.png" = {
 			Equivalents = (
 				"[nick]",
 			);
 			Name = "[avatar] Nick";
+		};
+		"professor.jpg" = {
+			Equivalents = (
+				"[patrick]",
+				"[patrickhawley]",
+				"[professor]",
+			);
+			Name = "[avatar] Patrick";
+		};
+		"duck.gif" = {
+			Equivalents = (
+				"[paul]",
+				"[borducks]",
+			);
+			Name = "[avatar] Paul";
 		};
 		"scott.jpg" = {
 			Equivalents = (
@@ -45,25 +67,36 @@
 			);
 			Name = "[avatar] Tim";
 		};
-		"tom.png" = {
+		"tomicons.png" = {
 			Equivalents = (
 				"[tom]",
 				"[tomabrem]",
 			);
 			Name = "[avatar] Tom";
 		};
-		"patrick.png" = {
+		"attn.png" = {
 			Equivalents = (
-				"[patrick]",
-				"[patrickhawley]",
+				"[!]",
 			);
-			Name = "[avatar] Patrick";
+			Name = "Attention !";
 		};
-		"shrug.gif" = {
+		"question.png" = {
 			Equivalents = (
-				"[shrug]",
+				"[?]",
 			);
-			Name = shrug;
+			Name = "Attention ?";
+		};
+		"whatsYaPhoneNumba.gif" = {
+			Equivalents = (
+				"[#]",
+			);
+			Name = "Phone Call";
+		};
+		"50.gif" = {
+			Equivalents = (
+				"[50]",
+			);
+			Name = "Fifty Cent";
 		};
 		"anyong.gif" = {
 			Equivalents = (
@@ -71,6 +104,74 @@
 				"[bye]",
 			);
 			Name = "Anyong!";
+		};
+		"applejuice.png" = {
+			Name = "Apple Juice";
+			Equivalents = (
+				"[applejuice]",
+			);
+		};
+		"dwight.gif" = {
+			Equivalents = (
+				"[arg]",
+			);
+			Name = Arggggh;
+		};
+		"beauty.gif" = {
+			Equivalents = (
+				"[beautiful]",
+			);
+			Name = Beautiful;
+		};
+		"proto1.gif" = {
+			Equivalents = (
+				"[blaster]",
+			);
+			Name = Blaster;
+		};
+		"block.jpg" = {
+			Name = "Mark Block";
+			Equivalents = (
+				"[block]",
+			);
+		};
+		"blowyourmind.gif" = {
+			Name = "Mind Explosion";
+			Equivalents = (
+				"[blowyourmind]",
+				"[mindexplosion]",
+				"[mindblown]",
+			);
+		};
+		"burn.jpg" = {
+			Equivalents = (
+				"[burn]",
+			);
+			Name = "Burn!";
+		};
+		"failburn.png" = {
+			Equivalents = (
+				"[burn1]",
+			);
+			Name = "Failed Burn";
+		};
+		"burn2.gif" = {
+			Equivalents = (
+				"[burn2]",
+			);
+			Name = "Burn! (Animated)";
+		};
+		"bye2.gif" = {
+			Equivalents = (
+				"[bye2]",
+			);
+			Name = "Bye bitch";
+		};
+		"canyonero.png" = {
+			Equivalents = (
+				"[canyon]",
+			);
+			Name = Geoff;
 		};
 		"carlton.gif" = {
 			Name = Awesome;
@@ -82,6 +183,12 @@
 			Name = Chicken;
 			Equivalents = (
 				"[chicken]",
+			);
+		};
+		"chucktesta.png" = {
+			Name = "Chuck Testa";
+			Equivalents = (
+				"[chucktesta]",
 			);
 		};
 		"clap1.gif" = {
@@ -108,6 +215,12 @@
 				"[clap3]",
 			);
 		};
+		"coolstorybro.gif" = {
+			Equivalents = (
+				"[coolstory]",
+			);
+			Name = "Cool Story Bro";
+		};
 		"crane.png"={
 			Name = "It Took a Crane";
 			Equivalents = (
@@ -124,11 +237,103 @@
 				"[ittookacrane1]",
 			);
 		};
+		"derp-girl.gif" = {
+			Equivalents = (
+				"[derp]",
+			);
+			Name = Derp;
+		};
+		"lance.gif" = {
+			Name = Douche;
+			Equivalents = (
+				"[douche]",
+			);
+		};
+		"duncan.gif" = {
+			Equivalents = (
+				"[duncan]",
+			);
+			Name = "DUNCAN!";
+		};
+		"picard-durr.jpg" = {
+			Name = "Picard - Uh, durr.";
+			Equivalents = (
+				"[durr]",
+			);
+		};
+		"spaceElevator.jpg" = {
+			Equivalents = (
+				"[elevator]",
+			);
+			Name = "Space Elevator";
+		};
+		"double-facepalm.gif" = {
+			Name = "Picard - Double Facepalm";
+			Equivalents = (
+				"[facepalm]",
+			);
+		};
+		"fuckit.gif" = {
+			Name = FuckIt;
+			Equivalents = (
+				"[fuckit]",
+			);
+		};
+		"fu3.gif" = {
+			Equivalents = (
+				"[fu]",
+			);
+			Name = "Fuck it.";
+		};
+		"fu2.png" = {
+			Equivalents = (
+				"[2fu]",
+			);
+			Name = "Fuck it.";
+		};
+		"fuckthis.gif" = {
+			Equivalents = (
+				"[fuckthis]",
+			);
+			Name = "Fuck this, fuck that";
+		};
+		"gaypicard.jpg" = {
+			Name = "Picard - Gay";
+			Equivalents = (
+				"[gaypicard]",
+				"[jeffrey]",
+			);
+		};
+		"gofuckyourself.gif" = {
+			Equivalents = (
+				"[gfy]",
+			);
+			Name = "Go Fuck Yourself";
+		};
+		"mike.png" = {
+			Equivalents = (
+				"[hunigan]",
+				"hunigan"
+			);
+			Name = "Hunigan!!!";
+		};
 		"jutincae.gif" = {
 			Name = "Jut In Cae";
 			Equivalents = (
 				"[jutincae]",
 			);
+		};
+		"killme.png" = {
+			Equivalents = (
+				"[killme]",
+			);
+			Name = "Kill Me";
+		};
+		"lunch.gif" = {
+			Equivalents = (
+				"[lunch]",
+			);
+			Name = "Lunch?";
 		};
 		"magic.gif" = {
 			Name = Magic;
@@ -160,102 +365,65 @@
 				"[magic4]",
 			);
 		};
-		"popcorn.gif" = {
-			Name = Popcorn;
+		"micdrop.gif" = {
+			Name = "Mic drop";
 			Equivalents = (
-				"[popcorn]",
+				"[micdrop]",
 			);
 		};
-		"this1.gif" = {
-			Name = This;
+		"nerd.jpg" = {
 			Equivalents = (
-				"[this]",
+				"[nerd]",
+			);
+			Name = "Nerd Alert!";
+		};
+		"epic-no.gif" = {
+			Name = "Picard - No! Nooo!";
+			Equivalents = (
+				"[nooo]",
 			);
 		};
-		"this.jpg" = {
-			Name = This1;
+		"nooo2.gif" = {
+			Name = "Luke Nooo!";
 			Equivalents = (
-				"[this1]",
+				"[nooo2]",
 			);
 		};
-		"this2.gif" = {
-			Name = This2;
+		"nooo4.gif" = {
+			Name = "Wyatt Nooo!";
 			Equivalents = (
-				"[this2]",
+				"[nooo3]",
 			);
 		};
-		"this3.jpg" = {
-			Name = This3;
+		"number-one.jpg" = {
+			Name = "Picard - Finger";
 			Equivalents = (
-				"[this3]",
+				"[number1]",
 			);
 		};
-		"zebra.gif" = {
-			Name = "Disco Zebra";
+		"ohshit.gif" = {
 			Equivalents = (
-				"[zebra]",
+				"[ohshit]",
 			);
+			Name = "Oh Shit Squirrel";
 		};
-		"zebra1.gif" = {
-			Name = "Zebra Fail";
+		"okaythen.gif" = {
 			Equivalents = (
-				"[zebra1]",
+				"[okaythen]",
+				"[okthen]",
 			);
+			Name = "Burn! (Animated)";
 		};
-		"fuckit.gif" = {
-			Name = FuckIt;
+		"oldman.png" = {
+			Name = "Old Man";
 			Equivalents = (
-				"[fuckit]",
-			);
-		};
-		"watson.gif" = {
-			Name = Watson;
-			Equivalents = (
-				"[watson]",
-			);
-		};
-		"blowyourmind.gif" = {
-			Name = "Mind Explosion";
-			Equivalents = (
-				"[blowyourmind]",
-				"[mindexplosion]",
-				"[mindblown]",
-			);
-		};
-		"block.jpg" = {
-			Name = "Mark Block";
-			Equivalents = (
-				"[block]",
-			);
-		};
-		"trollcain.gif" = {
-			Name = "Troll (Cain)";
-			Equivalents = (
-				"[trollcain]",
+				"[oldman]",
 			);
 		};
 		"facepalm.jpeg" = {
 			Name = "Picard - Palm";
 			Equivalents = (
 				"[palm]",
-			);
-		};
-		"applejuice.png" = {
-			Name = "Apple Juice";
-			Equivalents = (
-				"[applejuice]",
-			);
-		};
-		"staredad.gif" = {
-			Name = "Stare Dad";
-			Equivalents = (
-				"[staredad]",
-			);
-		};
-		"chucktesta.png" = {
-			Name = "Chuck Testa";
-			Equivalents = (
-				"[chucktesta]",
 			);
 		};
 		"facepalm2.gif" = {
@@ -296,127 +464,11 @@
 				"[simonpalm]",
 			);
 		};
-		"double-facepalm.gif" = {
-			Name = "Picard - Double Facepalm";
+		"popcorn.gif" = {
+			Name = Popcorn;
 			Equivalents = (
-				"[facepalm]",
+				"[popcorn]",
 			);
-		};
-		"gaypicard.jpg" = {
-			Name = "Picard - Gay";
-			Equivalents = (
-				"[gaypicard]",
-				"[jeffrey]",
-			);
-		};
-		"number-one.jpg" = {
-			Name = "Picard - Finger";
-			Equivalents = (
-				"[number1]",
-			);
-		};
-		"picard-durr.jpg" = {
-			Name = "Picard - Uh, durr.";
-			Equivalents = (
-				"[durr]",
-			);
-		};
-		"yesss.png" = {
-			Name = "Picard - Yesss!";
-			Equivalents = (
-				"[yesss]",
-			);
-		};
-		"epic-no.gif" = {
-			Name = "Picard - No! Nooo!";
-			Equivalents = (
-				"[nooo]",
-			);
-		};
-		"nooo2.gif" = {
-			Name = "Luke Nooo!";
-			Equivalents = (
-				"[nooo2]",
-			);
-		};
-		"nooo4.gif" = {
-			Name = "Wyatt Nooo!";
-			Equivalents = (
-				"[nooo3]",
-			);
-		};
-		"oldman.png" = {
-			Name = "Old Man";
-			Equivalents = (
-				"[oldman]",
-			);
-		};
-		"sports.gif" = {
-			Name = sports;
-			Equivalents = (
-				"[sports]",
-			);
-		};
-		"derp-girl.gif" = {
-			Equivalents = (
-				"[derp]",
-			);
-			Name = Derp;
-		};
-		"dwight.gif" = {
-			Equivalents = (
-				"[arg]",
-			);
-			Name = Arggggh;
-		};
-		"trophy.png" = {
-			Equivalents = (
-				"[trophy]",
-			);
-			Name = Trophy;
-		};
-		"fu2.png" = {
-			Equivalents = (
-				"[2fu]",
-			);
-			Name = "Fuck it.";
-		};
-		"fu3.gif" = {
-			Equivalents = (
-				"[fu]",
-			);
-			Name = "Fuck it.";
-		};
-		"beauty.gif" = {
-			Equivalents = (
-				"[beautiful]",
-			);
-			Name = Beautiful;
-		};
-		"cock_star.png" = {
-			Equivalents = (
-				"[star]",
-			);
-			Name = Star;
-		};
-		"tickspoon.png" = {
-			Equivalents = (
-				"[spoon]",
-			);
-			Name = "SPOOOON!";
-		};
-		"mike.png" = {
-			Equivalents = (
-				"[hunigan]",
-				"hunigan"
-			);
-			Name = "Hunigan!!!";
-		};
-		"canyonero.png" = {
-			Equivalents = (
-				"[canyon]",
-			);
-			Name = Geoff;
 		};
 		"qa1.gif" = {
 			Equivalents = (
@@ -424,36 +476,11 @@
 			);
 			Name = QA1;
 		};
-		"spaceElevator.jpg" = {
+		"blanka.gif" = {
 			Equivalents = (
-				"[elevator]",
+				"[rage]",
 			);
-			Name = "Space Elevator";
-		};
-		"burn.jpg" = {
-			Equivalents = (
-				"[burn]",
-			);
-			Name = "Burn!";
-		};
-		"failburn.png" = {
-			Equivalents = (
-				"[burn1]",
-			);
-			Name = "Failed Burn";
-		};
-		"burn2.gif" = {
-			Equivalents = (
-				"[burn2]",
-			);
-			Name = "Burn! (Animated)";
-		};
-		"okaythen.gif" = {
-			Equivalents = (
-				"[okaythen]",
-				"[okthen]",
-			);
-			Name = "Burn! (Animated)";
+			Name = "RAGE!";
 		};
 		"red.jpg" = {
 			Equivalents = (
@@ -468,83 +495,29 @@
 			);
 			Name = "Segway Crash";
 		};
-		"nerd.jpg" = {
+		"selffive.gif" = {
+			Name = "Self high five";
 			Equivalents = (
-				"[nerd]",
-			);
-			Name = "Nerd Alert!";
-		};
-		"killme.png" = {
-			Equivalents = (
-				"[killme]",
-			);
-			Name = "Kill Me";
-		};
-		"lance.gif" = {
-			Name = Douche;
-			Equivalents = (
-				"[douche]",
+				"[selffive]",
 			);
 		};
-		"thumbs-up.png" = {
+		"shrug.gif" = {
 			Equivalents = (
-				"[y]",
+				"[shrug]",
 			);
-			Name = "Thumbs Up";
+			Name = shrug;
 		};
-		"thumbs-down.png" = {
+		"shutup.gif" = {
 			Equivalents = (
-				"[n]",
+				"[shutup]",
 			);
-			Name = "Thumbs Down";
+			Name = "Shut up!!";
 		};
-		"lunch.gif" = {
+		"simon.gif" = {
 			Equivalents = (
-				"[lunch]",
+				"[simon]",
 			);
-			Name = "Lunch?";
-		};
-		"attn.png" = {
-			Equivalents = (
-				"[!]",
-			);
-			Name = "Attention !";
-		};
-		"question.png" = {
-			Equivalents = (
-				"[?]",
-			);
-			Name = "Attention ?";
-		};
-		"whatsYaPhoneNumba.gif" = {
-			Equivalents = (
-				"[#]",
-			);
-			Name = "Phone Call";
-		};
-		"stare.gif" = {
-			Equivalents = (
-				"[stare]",
-			);
-			Name = Staredown;
-		};
-		"blanka.gif" = {
-			Equivalents = (
-				"[rage]",
-			);
-			Name = "RAGE!";
-		};
-		"haggar.gif" = {
-			Equivalents = (
-				"[suplex]",
-			);
-			Name = Suplex;
-		};
-		"proto1.gif" = {
-			Equivalents = (
-				"[blaster]",
-			);
-			Name = Blaster;
+			Name = "Disgusted Simon";
 		};
 		"slap.gif" = {
 			Equivalents = (
@@ -558,47 +531,113 @@
 			);
 			Name = "Oh snap";
 		};
-		"simon.gif" = {
+		"tickspoon.png" = {
 			Equivalents = (
-				"[simon]",
+				"[spoon]",
 			);
-			Name = "Disgusted Simon";
+			Name = "SPOOOON!";
 		};
-		"ohshit.gif" = {
+		"sports.gif" = {
+			Name = sports;
 			Equivalents = (
-				"[ohshit]",
+				"[sports]",
 			);
-			Name = "Oh Shit Squirrel";
 		};
-		"duncan.gif" = {
+		"cock_star.png" = {
 			Equivalents = (
-				"[duncan]",
+				"[star]",
 			);
-			Name = "DUNCAN!";
+			Name = Star;
 		};
-		"50.gif" = {
+		"stare.gif" = {
 			Equivalents = (
-				"[50]",
+				"[stare]",
 			);
-			Name = "Fifty Cent";
+			Name = Staredown;
 		};
-		"gofuckyourself.gif" = {
+		"staredad.gif" = {
+			Name = "Stare Dad";
 			Equivalents = (
-				"[gfy]",
+				"[staredad]",
 			);
-			Name = "Go Fuck Yourself";
 		};
-		"coolstorybro.gif" = {
+		"haggar.gif" = {
 			Equivalents = (
-				"[coolstory]",
+				"[suplex]",
 			);
-			Name = "Cool Story Bro";
+			Name = Suplex;
 		};
-		"shutup.gif" = {
+		"takeabow.gif" = {
+			Name = "Take a bow";
 			Equivalents = (
-				"[shutup]",
+				"[takeabow]",
 			);
-			Name = "Shut up!!";
+		};
+		"thanksobama.gif" = {
+			Name = "Thanks Obama!!";
+			Equivalents = (
+				"[thanksobama]",
+			);
+		};
+		"this.jpg" = {
+			Name = This1;
+			Equivalents = (
+				"[this1]",
+			);
+		};
+		"this1.gif" = {
+			Name = This;
+			Equivalents = (
+				"[this]",
+			);
+		};
+		"this2.gif" = {
+			Name = This2;
+			Equivalents = (
+				"[this2]",
+			);
+		};
+		"this3.jpg" = {
+			Name = This3;
+			Equivalents = (
+				"[this3]",
+			);
+		};
+		"this4.png" = {
+			Name = This4;
+			Equivalents = (
+				"[this4]",
+			);
+		};
+		"thumbs-down.png" = {
+			Equivalents = (
+				"[n]",
+			);
+			Name = "Thumbs Down";
+		};
+		"thumbs-up.png" = {
+			Equivalents = (
+				"[y]",
+			);
+			Name = "Thumbs Up";
+		};
+		"trollcain.gif" = {
+			Name = "Troll (Cain)";
+			Equivalents = (
+				"[trollcain]",
+			);
+		};
+		"trophy.png" = {
+			Equivalents = (
+				"[trophy]",
+			);
+			Name = Trophy;
+		};
+		"watson.gif" = {
+			Name = Watson;
+			Equivalents = (
+				"[watson]",
+			);
 		};
 		"whatthefuck.gif" = {
 			Equivalents = (
@@ -606,17 +645,23 @@
 			);
 			Name = "What the fuck?";
 		};
-		"bye2.gif" = {
+		"yesss.png" = {
+			Name = "Picard - Yesss!";
 			Equivalents = (
-				"[bye2]",
+				"[yesss]",
 			);
-			Name = "Bye bitch";
 		};
-		"fuckthis.gif" = {
+		"zebra.gif" = {
+			Name = "Disco Zebra";
 			Equivalents = (
-				"[fuckthis]",
+				"[zebra]",
 			);
-			Name = "Fuck this, fuck that";
+		};
+		"zebra1.gif" = {
+			Name = "Zebra Fail";
+			Equivalents = (
+				"[zebra1]",
+			);
 		};
 	};
 }
