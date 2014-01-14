@@ -111,6 +111,12 @@
 				"[applejuice]",
 			);
 		};
+		"approval.gif" = {
+			Equivalents = (
+				"[approve]",
+			);
+			Name = "I approve";
+		};
 		"dwight.gif" = {
 			Equivalents = (
 				"[arg]",
@@ -122,6 +128,12 @@
 				"[beautiful]",
 			);
 			Name = Beautiful;
+		};
+		"booyah.gif" = {
+			Equivalents = (
+				"[booyah]",
+			);
+			Name = "Ohhhhhh---OHHHHH";
 		};
 		"proto1.gif" = {
 			Equivalents = (
@@ -291,6 +303,12 @@
 			);
 			Name = "Fuck it.";
 		};
+		"fthis.gif" = {
+			Equivalents = (
+				"[fthis]",
+			);
+			Name = "F-this";
+		};
 		"fuckthis.gif" = {
 			Equivalents = (
 				"[fuckthis]",
@@ -304,11 +322,24 @@
 				"[jeffrey]",
 			);
 		};
+		"gimmefive.gif" = {
+			Equivalents = (
+				"[gimmefive]",
+				"[five2]",
+			);
+			Name = "Gimme five!";
+		};
 		"gofuckyourself.gif" = {
 			Equivalents = (
 				"[gfy]",
 			);
 			Name = "Go Fuck Yourself";
+		};
+		"iH8u.gif" = {
+			Equivalents = (
+				"[hate]",
+			);
+			Name = "I HATE YOU!!";
 		};
 		"mike.png" = {
 			Equivalents = (
@@ -464,6 +495,12 @@
 				"[simonpalm]",
 			);
 		};
+		"party2.gif" = {
+			Equivalents = (
+				"[party2]",
+			);
+			Name = "Twerking party";
+		};
 		"popcorn.gif" = {
 			Name = Popcorn;
 			Equivalents = (
@@ -499,6 +536,7 @@
 			Name = "Self high five";
 			Equivalents = (
 				"[selffive]",
+				"[five]",
 			);
 		};
 		"shrug.gif" = {
@@ -566,6 +604,12 @@
 				"[suplex]",
 			);
 			Name = Suplex;
+		};
+		"suplex2.gif" = {
+			Equivalents = (
+				"[suplex2]",
+			);
+			Name = Suplex2;
 		};
 		"takeabow.gif" = {
 			Name = "Take a bow";
