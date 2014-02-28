@@ -167,6 +167,13 @@
 				"[mindblown]",
 			);
 		};
+		"blueprint.gif" = {
+			Name = "Blueprint Coffee";
+			Equivalents = (
+				"[blueprint]",
+				"[blueprint coffee]"
+			);
+		};
 		"burn.jpg" = {
 			Equivalents = (
 				"[burn]",
@@ -244,6 +251,14 @@
 				"[coolstory]",
 			);
 			Name = "Cool Story Bro";
+		};
+		"corner17.gif" = {
+			Name = "Corner 17";
+			Equivalents = (
+				"[c17]",
+				"[corner17]",
+				"[corner 17]"
+			);
 		};
 		"crane.png"={
 			Name = "It Took a Crane";
@@ -332,6 +347,13 @@
 			Equivalents = (
 				"[gaypicard]",
 				"[jeffrey]",
+			);
+		};
+		"getit.gif" = {
+			Name = "Get it?";
+			Equivalents = (
+				"[getit]",
+				"[get it]"
 			);
 		};
 		"gimmefive.gif" = {
