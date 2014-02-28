@@ -26,7 +26,7 @@
 			);
 			Name = "[avatar] Jameson";
 		};
-		"bandana.gif" = {
+		"kevin.gif" = {
 			Equivalents = (
 				"[kevin]",
 				"[kevinbanas]",
@@ -128,6 +128,18 @@
 				"[beautiful]",
 			);
 			Name = Beautiful;
+		};
+		"bite.gif" = {
+			Equivalents = (
+				"[bite]",
+			);
+			Name = "Bites hand";
+		};
+		"boom.gif" = {
+			Equivalents = (
+				"[boom]",
+			);
+			Name = "BOOM";
 		};
 		"booyah.gif" = {
 			Equivalents = (
@@ -360,6 +372,12 @@
 			);
 			Name = "Kill Me";
 		};
+		"killself.gif" = {
+			Equivalents = (
+				"[killself]",
+			);
+			Name = "Kill self";
+		};
 		"lunch.gif" = {
 			Equivalents = (
 				"[lunch]",
@@ -526,6 +544,18 @@
 			);
 			Name = "Burn! (Animated)";
 		};
+		"rickroll.gif" = {
+			Equivalents = (
+				"[rickroll]",
+			);
+			Name = "Never gonna give a fuck";
+		};
+		"righthere.gif" = {
+			Equivalents = (
+				"[righthere]",
+			);
+			Name = "It's RIGHT HERE!!";
+		};
 		"segway.gif" = {
 			Equivalents = (
 				"[segway]",
@@ -664,6 +694,12 @@
 				"[y]",
 			);
 			Name = "Thumbs Up";
+		};
+		"tldr.gif" = {
+			Equivalents = (
+				"[tldr]",
+			);
+			Name = "Didn't read";
 		};
 		"trollcain.gif" = {
 			Name = "Troll (Cain)";
