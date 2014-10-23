@@ -491,6 +491,13 @@
 				"[nooo3]",
 			);
 		};
+		"notlistening.gif" = {
+			Equivalents = (
+				"[notlistening]",
+				"[thedude2]",
+			);
+			Name = "Sorry, wasn't listening";
+		};
 		"number-one.jpg" = {
 			Name = "Picard - Finger";
 			Equivalents = (
