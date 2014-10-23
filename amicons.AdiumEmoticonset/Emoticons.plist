@@ -180,7 +180,7 @@
 			);
 			Name = "Burn!";
 		};
-		"bush.jpg" = {
+		"bush.gif" = {
 			Equivalents = (
 				"[bush]",
 			);
@@ -275,12 +275,18 @@
 				"[ittookacranetoseewhatyoudidthere]",
 			);
 		};
-		"crane1.gif"={
-			Name = "It Took a Crane";
+		"dealwithit.gif"={
+			Name = "Deal with it";
 			Equivalents = (
-				"[crane1]",
-				"[ittookacrane1]",
+				"[dealwithit]",
+				"[thedude]",
 			);
+		};
+		"dealwithit.gif" = {
+			Equivalents = (
+				"[duncan]",
+			);
+			Name = "DUNCAN!";
 		};
 		"derp-girl.gif" = {
 			Equivalents = (
@@ -484,6 +490,13 @@
 				"[nooo3]",
 			);
 		};
+		"notlistening.gif" = {
+			Name = "Sorry, wasn't listening";
+			Equivalents = (
+				"[notlistening]",
+				"[thedude2]",
+			);
+		};
 		"number-one.jpg" = {
 			Name = "Picard - Finger";
 			Equivalents = (
@@ -565,6 +578,12 @@
 			);
 			Name = "Twerking party";
 		};
+		"vhpy.gif" = {
+			Equivalents = (
+				"[party3]",
+			);
+			Name = "Wooooo";
+		};
 		"popcorn.gif" = {
 			Name = Popcorn;
 			Equivalents = (
@@ -613,6 +632,13 @@
 			Equivalents = (
 				"[selffive]",
 				"[five]",
+			);
+		};
+		"shock.gif" = {
+			Name = "Shocked";
+			Equivalents = (
+				"[shock]",
+				"[bundy]",
 			);
 		};
 		"shrug.gif" = {
@@ -769,7 +795,7 @@
 			Equivalents = (
 				"[what]",
 			);
-			Name = "...what?";
+			Name = "What?...";
 		};
 		"whatthefuck.gif" = {
 			Equivalents = (
