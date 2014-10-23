@@ -275,19 +275,20 @@
 				"[ittookacranetoseewhatyoudidthere]",
 			);
 		};
-		"dealwithit.gif"={
-			Name = "Deal with it";
+		"crane1.gif"={
+			Name = "It Took a Crane";
 			Equivalents = (
-				"[dealwithit]",
-				"[thedude]",
+				"[crane1]",
+				"[ittookacrane1]",
 			);
 		};
 		"dealwithit.gif" = {
-			Equivalents = (
-				"[duncan]",
-			);
-			Name = "DUNCAN!";
-		};
+            Equivalents = (
+                "[dealwithit]",
+                "[thedude]",
+            );
+            Name = "Deal with it";
+        };
 		"derp-girl.gif" = {
 			Equivalents = (
 				"[derp]",
@@ -490,13 +491,6 @@
 				"[nooo3]",
 			);
 		};
-		"notlistening.gif" = {
-			Name = "Sorry, wasn't listening";
-			Equivalents = (
-				"[notlistening]",
-				"[thedude2]",
-			);
-		};
 		"number-one.jpg" = {
 			Name = "Picard - Finger";
 			Equivalents = (
@@ -578,12 +572,6 @@
 			);
 			Name = "Twerking party";
 		};
-		"vhpy.gif" = {
-			Equivalents = (
-				"[party3]",
-			);
-			Name = "Wooooo";
-		};
 		"popcorn.gif" = {
 			Name = Popcorn;
 			Equivalents = (
@@ -634,13 +622,13 @@
 				"[five]",
 			);
 		};
-		"shock.gif" = {
-			Name = "Shocked";
-			Equivalents = (
-				"[shock]",
-				"[bundy]",
-			);
-		};
+		"albundy_shock.gif" = {
+            Name = "Shocked";
+            Equivalents = (
+                "[shock]",
+                "[bundy]",
+            );
+        };
 		"shrug.gif" = {
 			Equivalents = (
 				"[shrug]",
@@ -795,7 +783,7 @@
 			Equivalents = (
 				"[what]",
 			);
-			Name = "What?...";
+			Name = "...what?";
 		};
 		"whatthefuck.gif" = {
 			Equivalents = (
