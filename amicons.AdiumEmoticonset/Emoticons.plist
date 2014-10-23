@@ -180,6 +180,12 @@
 			);
 			Name = "Burn!";
 		};
+		"bush.jpg" = {
+			Equivalents = (
+				"[bush]",
+			);
+			Name = "Hide in bush!";
+		};
 		"failburn.png" = {
 			Equivalents = (
 				"[burn1]",
@@ -349,6 +355,12 @@
 				"[jeffrey]",
 			);
 		};
+		"getoverhere.png" = {
+			Name = "Get over here";
+			Equivalents = (
+				"[getoverhere]"
+			);
+		};
 		"getit.gif" = {
 			Name = "Get it?";
 			Equivalents = (
@@ -442,6 +454,12 @@
 				"[micdrop]",
 			);
 		};
+		"namedrop.gif" = {
+			Name = "Name drop";
+			Equivalents = (
+				"[namedrop]",
+			);
+		};
 		"nerd.jpg" = {
 			Equivalents = (
 				"[nerd]",
@@ -533,6 +551,12 @@
 			Equivalents = (
 				"[palm7]",
 				"[simonpalm]",
+			);
+		};
+		"patrice.gif" = {
+			Name = "Nobody asked you Patrice!";
+			Equivalents = (
+				"[patrice]"
 			);
 		};
 		"party2.gif" = {
@@ -740,6 +764,12 @@
 			Equivalents = (
 				"[watson]",
 			);
+		};
+		"what.gif" = {
+			Equivalents = (
+				"[what]",
+			);
+			Name = "...what?";
 		};
 		"whatthefuck.gif" = {
 			Equivalents = (
